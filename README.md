@@ -18,11 +18,17 @@ Static **HTML** project with pages like `index.html`, `aula.html`, and `contato.
 ## 🗂️ Estrutura | Structure
 
 profcode/
+
 ├─ index.html
+
 ├─ aula.html
+
 ├─ contato.html
+
 ├─ imagens/ # assets (png, etc.)
+
 ├─ audio/ # assets (mp3)
+
 └─ README.md # this file
 
 
@@ -51,17 +57,6 @@ profcode/
      # visit: http://localhost:8000
      ```
 3. That’s it — static site.
-
----
-
-## ✅ Checklist
-
-- [x] README bilíngue (PT-BR/EN) atualizado  
-- [x] Licença **MIT** adicionada (`LICENSE`)  
-- [ ] Criar repositório no GitHub  
-- [ ] Adicionar **Topics** (ex.: `html`, `portfolio`, `site-estatico`, `prof-ajax`)  
-- [ ] Criar **Release** (ex.: `v1.0.0`)  
-- [ ] **Actions** somente se necessário (ex.: GitHub Pages)
 
 ---
 
